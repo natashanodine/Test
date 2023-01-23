@@ -1,0 +1,65 @@
+.boxStyle {
+  border: 2px solid #999;
+  border-radius: 5px;
+  margin-top: 50px;
+}
+
+.styleHeaderCard {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.textStyle {
+  padding: 15px;
+}
+
+.containerStyle {
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  margin: 25px;
+}
+
+.styleBadge {
+  right: 20px;
+  top: -10px;
+  position: absolute;
+  background: #7b5be4;
+  color: #fff;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 25px;
+  padding-left: 25px;
+  border-radius: 12px;
+}
+
+.styleHeaderBox {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.styleFooterCard {
+  color: #7b5be4;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.styleButtom {
+  background-color: #000;
+  color: #fff;
+}
+
+.styleBadgeBox {
+  background: #eceaf2;
+  width: 80%;
+  color: #7b5be4;
+  border-radius: 15px;
+  padding: 5px 5px 5px 15px;
+  margin: 10px 0 0 0;
+}
+@media only screen and (min-width: 1350px) {
+  .styleButtom {
+    background-color: rgb(0, 14, 212);
+    color: #fff;
+  }
+}
